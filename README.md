@@ -12,7 +12,7 @@
   <li> Rate limiting and bot detection</li>
 </ul>
 
-<h2>🛠 Tech Stack</h2>
+<h2> Tech Stack</h2>
 <p><strong>Frontend:</strong> React (Vite) + TailwindCSS + DaisyUI + Zustand</p>
 <p><strong>Backend:</strong> Node.js + Express.js</p>
 <p><strong>Database:</strong> PostgreSQL</p>
